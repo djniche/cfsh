@@ -1,8 +1,8 @@
 {
-  "token": "6394082414:AAGTw9Z6uWN7jPjwAsUk56u4SouOvtlgid0",
-  "user_id": "860096995",
+  "token": "",
+  "user_id": "",
   "api_urls": {
-    "list": "http://gcp.monisaiche.cn:61001/api/task/list",
-    "add": "http://gcp.monisaiche.cn:61001/api/task/add?url="
+    "list": "http://*.*.*.*:61001/api/task/list",
+    "add": "http://*.*.*.*:61001/api/task/add?url="
   }
 }
